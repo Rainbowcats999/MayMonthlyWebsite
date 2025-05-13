@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
     </div>
       `;
 
-      grid.appendChild();
+      grid.appendChild(col);
     });
   };
 
