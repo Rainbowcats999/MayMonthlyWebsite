@@ -4,14 +4,12 @@ document.addEventListener("DOMContentLoaded", () => {
   const render = (list) => {
     grid.innerHTML = "";
 
-    list.forEach(p => {
+    list.forEach((p) => {
+      const col = document.createElement("div");
 
+      col.className = "col-6 col-lg-2";
 
-        const col = document.createElement('div')
-
-        col.
-
-
+      col.innerHTML = "";
     });
   };
 
