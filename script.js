@@ -9,7 +9,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
       col.className = "col-6 col-lg-2";
 
-      col.innerHTML = "";
+      col.innerHTML = `
+      <div class="card h-100 shadow-sm">
+        <img src="${p.photo}" class="card-img-top" alt="${p.firstName} ${p.lastName}">
+        <div class="card-body-top text-center">
+            <h5 class="card-title mb-1"> ${p.firstName} ${p.lastname} 
+            </h5>
+            <div class="badge badge-position badge-pos-${p.position}">
+
+            </div>
+            <p class="small text-muted mb-0">
+                Age${p.age}
+            </p>
+        </div>
+    </div>
+      `;
     });
   };
 
