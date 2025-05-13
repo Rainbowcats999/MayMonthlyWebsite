@@ -49,9 +49,9 @@ const players = [
     photo: "https://picsum.photos/",
   },
   {
-    firstName: "Todd",
-    lastName: "Bertuzzi",
-    position: "Right wing",
+    firstName: "Olli",
+    lastName: "Jokinen",
+    position: "Center",
     age: "50",
     photo: "https://picsum.photos/",
   },
