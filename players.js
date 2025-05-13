@@ -35,10 +35,10 @@ const players = [
     photo: "https://picsum.photos/",
   },
   {
-    firstName: "Aleksander",
-    lastName: "Barkov",
-    position: "",
-    age: "",
+    firstName: "Mackie",
+    lastName: "Samoskevich",
+    position: "Center",
+    age: "22",
     photo: "https://picsum.photos/",
   },
 ];

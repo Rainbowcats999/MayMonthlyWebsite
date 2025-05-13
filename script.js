@@ -4,4 +4,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const render = (list) => {
     grid.innerHTML = "";
   };
+
+  render(players);
 });
