@@ -52,7 +52,7 @@ const players = [
     firstName: "Olli",
     lastName: "Jokinen",
     position: "Center",
-    age: "50",
+    age: "46",
     photo: "https://picsum.photos/",
   },
   {
