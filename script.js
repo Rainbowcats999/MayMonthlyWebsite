@@ -3,6 +3,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const render = (list) => {
     grid.innerHTML = "";
+
+    list.forEach();
   };
 
   render(players);
