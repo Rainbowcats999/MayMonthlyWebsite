@@ -2,36 +2,36 @@ const players = [
     {
         firstName: 'Aleksander',
         lastName:'Barkov',
-        position:'',
-        age: '',
-        photo: '',
+        position:'center',
+        age: '29',
+        photo: 'https://picsum.photos/',
     }
     {
         firstName: 'Aleksander',
         lastName:'Barkov',
         position:'',
         age: '',
-        photo: '',
+        photo: 'https://picsum.photos/',
     }
     {
         firstName: 'Aleksander',
         lastName:'Barkov',
         position:'',
         age: '',
-        photo: '',
+        photo: 'https://picsum.photos/',
     }
     {
         firstName: 'Aleksander',
         lastName:'Barkov',
         position:'',
         age: '',
-        photo: '',
+        photo: 'https://picsum.photos/',
     }
     {
         firstName: 'Aleksander',
         lastName:'Barkov',
         position:'',
         age: '',
-        photo: '',
+        photo: 'https://picsum.photos/',
     }
 ];
