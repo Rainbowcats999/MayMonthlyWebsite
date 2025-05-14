@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.panthers {
+  width: clamp(400px, 40vw, 700px);
+  animation: bounce 1.25s infinite;
+  animation-timing-function: ease-in-out;
+  position: relative;
+}
