@@ -219,3 +219,16 @@ window.onload = function () {
 
   type(text, document.getElementById(destination));
 };
+
+function type(arc, cont) {
+  let string = arc.split("");
+  for (let i = 0; i < string.length; i++) {
+    setTimeout(
+      () => {
+        cont.append(string[i]);
+      },
+      i * 60,
+      string[i]
+    );
+  }
+}
