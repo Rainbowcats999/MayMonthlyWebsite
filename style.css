@@ -15,4 +15,10 @@ body {
   font-family: "slipstream-d", sans-serif;
   font-weight: 400;
   font-style: normal;
+  background: linear-gradient(235deg, #832e2e, #060c21, #cf1f1f);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  backdrop-filter: blur(0px);
 }
