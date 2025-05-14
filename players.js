@@ -203,3 +203,19 @@ const players = [
     photo: "https://picsum.photos/200/300",
   },
 ];
+
+window.onload = function () {
+  let url = window.location.toString().split("/");
+  url = url[url.length - 1];
+  console.log(url);
+  let destination;
+  let text;
+  switch (url) {
+    case "index.html":
+      destination = "i0";
+      text = `Florida panthers`;
+      break;
+  }
+
+  type(text, document.getElementById(destination));
+};
