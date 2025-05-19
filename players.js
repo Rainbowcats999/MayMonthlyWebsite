@@ -6,6 +6,7 @@ const players = [
     age: "29",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Evan",
     lastName: " Rodrigues",
@@ -13,6 +14,7 @@ const players = [
     age: "31",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Sam",
     lastName: "Bennett",
@@ -20,6 +22,7 @@ const players = [
     age: "28",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Niko",
     lastName: "Mikkola",
@@ -27,6 +30,7 @@ const players = [
     age: "29",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Jonah",
     lastName: "Gadjovich",
@@ -34,6 +38,7 @@ const players = [
     age: "26",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Mackie",
     lastName: "Samoskevich",
@@ -41,6 +46,7 @@ const players = [
     age: "22",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Todd",
     lastName: "Bertuzzi",
@@ -48,6 +54,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Olli",
     lastName: "Jokinen",
@@ -55,6 +62,7 @@ const players = [
     age: "46",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Nikita",
     lastName: "Gusev",
@@ -62,6 +70,7 @@ const players = [
     age: "32",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Scott",
     lastName: "Mellanby",
@@ -69,6 +78,7 @@ const players = [
     age: "58",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Todd",
     lastName: "Bertuzzi",
@@ -76,6 +86,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Gustav",
     lastName: "Forsling",
@@ -83,6 +94,7 @@ const players = [
     age: "28",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Pavel",
     lastName: "Bure",
@@ -90,6 +102,7 @@ const players = [
     age: "54",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Radek",
     lastName: "Dvorak",
@@ -97,6 +110,7 @@ const players = [
     age: "48",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Joshua",
     lastName: "Brown",
@@ -104,6 +118,7 @@ const players = [
     age: "31",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Ed",
     lastName: "Belfour",
@@ -111,6 +126,7 @@ const players = [
     age: "60",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Krys",
     lastName: "Barch",
@@ -118,6 +134,7 @@ const players = [
     age: "45",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Nick",
     lastName: "Bjugstad",
@@ -125,6 +142,7 @@ const players = [
     age: "32",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Steve",
     lastName: "Bernier",
@@ -132,6 +150,7 @@ const players = [
     age: "40",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Christian",
     lastName: "Berglund",
@@ -139,6 +158,7 @@ const players = [
     age: "45",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Brian",
     lastName: "Boyle",
@@ -146,6 +166,7 @@ const players = [
     age: "40",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Byron",
     lastName: "Bitz",
@@ -153,6 +174,7 @@ const players = [
     age: "40",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Aaron",
     lastName: "Ekblad",
@@ -160,6 +182,7 @@ const players = [
     age: "29",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Sam",
     lastName: "Reinhart",
@@ -167,6 +190,7 @@ const players = [
     age: "29",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Matthew",
     lastName: "Tkachuk",
@@ -174,6 +198,7 @@ const players = [
     age: "27",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Uvis",
     lastName: "Balinskis",
@@ -181,6 +206,7 @@ const players = [
     age: "28",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Stephen",
     lastName: "Weiss",
@@ -188,6 +214,7 @@ const players = [
     age: "42",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Troy",
     lastName: "Brouwer",
@@ -195,6 +222,7 @@ const players = [
     age: "39",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Johanthan",
     lastName: "Hurberdeau",
@@ -202,6 +230,7 @@ const players = [
     age: "31",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Bobby",
     lastName: "Butler",
@@ -209,6 +238,7 @@ const players = [
     age: "38",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Connor",
     lastName: "Brickley",
@@ -216,6 +246,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "David",
     lastName: "Booth",
@@ -223,6 +254,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Nick",
     lastName: "Boynton",
@@ -230,6 +262,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "T.J.",
     lastName: "Brennan",
@@ -237,6 +270,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Dave",
     lastName: "Bolland",
@@ -244,6 +278,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Keith",
     lastName: "Ballard",
@@ -251,6 +286,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "David",
     lastName: "Brine",
@@ -258,6 +294,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Niclas",
     lastName: "Bergfors",
@@ -265,6 +302,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Dmitry",
     lastName: "Kulikov",
@@ -272,6 +310,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Anton",
     lastName: "Lundell",
@@ -279,6 +318,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Eetu",
     lastName: "Luostarinen",
@@ -286,6 +326,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Sergei",
     lastName: "Bobrovosky",
@@ -293,6 +334,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Reto",
     lastName: "Berra",
@@ -300,6 +342,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Ed",
     lastName: "Jovanovski",
@@ -307,6 +350,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Sean",
     lastName: "Bergenheim",
@@ -314,6 +358,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Chase",
     lastName: "Balisy",
@@ -321,6 +366,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Henrik",
     lastName: "Borgstrom",
@@ -328,6 +374,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Derick",
     lastName: "Brassard",
@@ -335,6 +382,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Jay",
     lastName: "Bouwmeester",
@@ -342,6 +390,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Wade",
     lastName: "Belak",
@@ -349,6 +398,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Dan",
     lastName: "Boyle",
@@ -356,6 +406,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Brad",
     lastName: "Boyes",
@@ -363,6 +414,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Jonathan",
     lastName: "Marchessault",
@@ -370,6 +422,7 @@ const players = [
     age: "50",
     photo: "https://picsum.photos/200/300",
   },
+
   {
     firstName: "Paul",
     lastName: "Maurice",
