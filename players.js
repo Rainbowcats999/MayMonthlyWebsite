@@ -156,7 +156,7 @@ const players = [
     lastName: "Boyle",
     position: "Center",
     age: "40",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/brian-boyle.png",
   },
 
   {
@@ -164,7 +164,7 @@ const players = [
     lastName: "Bitz",
     position: "3rd or 4th line forward",
     age: "40",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/byron-bitz.png",
   },
 
   {
@@ -172,7 +172,7 @@ const players = [
     lastName: "Ekblad",
     position: "Defenseman",
     age: "29",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/aaron-ekblad.png",
   },
 
   {
@@ -180,7 +180,7 @@ const players = [
     lastName: "Reinhart",
     position: "Right wing",
     age: "29",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/sam-reinhart.png",
   },
 
   {
