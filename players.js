@@ -4,7 +4,7 @@ const players = [
     lastName: "Barkov",
     position: "Center",
     age: "29",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/aleksander-barkov.png",
   },
 
   {
@@ -12,7 +12,7 @@ const players = [
     lastName: " Rodrigues",
     position: "Center",
     age: "31",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/evan-rodrigues.png",
   },
 
   {
@@ -20,7 +20,7 @@ const players = [
     lastName: "Bennett",
     position: "Center",
     age: "28",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/sam-bennett.png",
   },
 
   {
@@ -28,7 +28,7 @@ const players = [
     lastName: "Mikkola",
     position: "Defenseman",
     age: "29",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/niko-mikkola.png",
   },
 
   {
@@ -36,7 +36,7 @@ const players = [
     lastName: "Gadjovich",
     position: "Left wing",
     age: "26",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/jonah-gadjovich.png",
   },
 
   {
@@ -44,7 +44,7 @@ const players = [
     lastName: "Samoskevich",
     position: "Center",
     age: "22",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/mackie-samoskeich.png",
   },
 
   {
@@ -52,7 +52,7 @@ const players = [
     lastName: "Jokinen",
     position: "Center",
     age: "46",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/olli-jokinen.png",
   },
 
   {
@@ -60,7 +60,7 @@ const players = [
     lastName: "Gusev",
     position: "Left wing",
     age: "32",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/nikita-gusev.png",
   },
 
   {
@@ -68,7 +68,7 @@ const players = [
     lastName: "Mellanby",
     position: "Right wing",
     age: "58",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/licensed-image.jpg",
   },
 
   {
@@ -76,7 +76,7 @@ const players = [
     lastName: "Bertuzzi",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/todd-bertuzzi.png",
   },
 
   {
@@ -84,7 +84,7 @@ const players = [
     lastName: "Forsling",
     position: "defenceman",
     age: "28",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/gustav-forsling.png",
   },
 
   {
@@ -92,7 +92,7 @@ const players = [
     lastName: "Bure",
     position: "Right wing",
     age: "54",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/bure_2018-10-27.jpg",
   },
 
   {
@@ -100,7 +100,7 @@ const players = [
     lastName: "Dvorak",
     position: "Right wing",
     age: "48",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/radek-dvorak.png",
   },
 
   {
@@ -108,7 +108,7 @@ const players = [
     lastName: "Brown",
     position: "Defense",
     age: "31",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/joshua-brown.jpg",
   },
 
   {
@@ -116,7 +116,7 @@ const players = [
     lastName: "Belfour",
     position: "Goaltender",
     age: "60",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/ed-belfour.jpg",
   },
 
   {
@@ -124,7 +124,7 @@ const players = [
     lastName: "Barch",
     position: "Right wing",
     age: "45",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/krys-barch.webp",
   },
 
   {
@@ -132,7 +132,7 @@ const players = [
     lastName: "Bjugstad",
     position: "Right wing",
     age: "32",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/nick-bjugstad.png",
   },
 
   {
@@ -140,7 +140,7 @@ const players = [
     lastName: "Bernier",
     position: "Right wing",
     age: "40",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/steve-bernier.png",
   },
 
   {
@@ -148,7 +148,7 @@ const players = [
     lastName: "Berglund",
     position: "Left wing",
     age: "45",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/christian-berglund.jpg",
   },
 
   {
