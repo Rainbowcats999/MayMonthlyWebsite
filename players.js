@@ -188,7 +188,7 @@ const players = [
     lastName: "Tkachuk",
     position: "Left wing",
     age: "27",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/matthew-tkachuk.png",
   },
 
   {
@@ -196,7 +196,7 @@ const players = [
     lastName: "Balinskis",
     position: "Defenseman",
     age: "28",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/uvis-balinskis.png",
   },
 
   {
@@ -204,7 +204,7 @@ const players = [
     lastName: "Weiss",
     position: "Center",
     age: "42",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/stephen-weiss.png",
   },
 
   {
@@ -212,7 +212,7 @@ const players = [
     lastName: "Brouwer",
     position: "Right wing",
     age: "39",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/troy-brouwer.png",
   },
 
   {
@@ -220,7 +220,7 @@ const players = [
     lastName: "Hurberdeau",
     position: "Left wing",
     age: "31",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/jonathan-hurberdeau.png",
   },
 
   {
@@ -228,7 +228,7 @@ const players = [
     lastName: "Butler",
     position: "Right wing",
     age: "38",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/bobby-butler.jpg",
   },
 
   {
@@ -236,7 +236,7 @@ const players = [
     lastName: "Brickley",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/connor-brickley.png",
   },
 
   {
@@ -244,7 +244,7 @@ const players = [
     lastName: "Booth",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/david-booth.png",
   },
 
   {
@@ -252,7 +252,7 @@ const players = [
     lastName: "Boynton",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/nick-boynton.png",
   },
 
   {
@@ -260,7 +260,7 @@ const players = [
     lastName: "Brennan",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/T.J. Brennan.png",
   },
 
   {
@@ -268,7 +268,7 @@ const players = [
     lastName: "Bolland",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/dave-bolland.webp",
   },
 
   {
@@ -276,7 +276,7 @@ const players = [
     lastName: "Ballard",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/keith ballard.png",
   },
 
   {
@@ -284,7 +284,7 @@ const players = [
     lastName: "Brine",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/david-brine.jpg",
   },
 
   {
@@ -292,7 +292,7 @@ const players = [
     lastName: "Bergfors",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/niclas-bergfors.png",
   },
 
   {
@@ -300,7 +300,7 @@ const players = [
     lastName: "Kulikov",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/dmitry-kulikov.png",
   },
 
   {
@@ -308,7 +308,7 @@ const players = [
     lastName: "Lundell",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/anton lundell.png",
   },
 
   {
@@ -316,7 +316,7 @@ const players = [
     lastName: "Luostarinen",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/eetu-luostarinen.png",
   },
 
   {
@@ -324,7 +324,7 @@ const players = [
     lastName: "Bobrovosky",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/sergei-bobrovosky.png",
   },
 
   {
