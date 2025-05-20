@@ -332,7 +332,7 @@ const players = [
     lastName: "Berra",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/reto-berra.png",
   },
 
   {
@@ -340,7 +340,7 @@ const players = [
     lastName: "Jovanovski",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/ed jovanovski.png",
   },
 
   {
@@ -348,7 +348,7 @@ const players = [
     lastName: "Bergenheim",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/sean-bergenhiem.png",
   },
 
   {
@@ -356,7 +356,7 @@ const players = [
     lastName: "Balisy",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/chase-balisy.jpg",
   },
 
   {
@@ -364,7 +364,7 @@ const players = [
     lastName: "Borgstrom",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/henrik-borgstrom.png",
   },
 
   {
@@ -372,7 +372,7 @@ const players = [
     lastName: "Brassard",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/derick brassard.png",
   },
 
   {
@@ -380,7 +380,7 @@ const players = [
     lastName: "Bouwmeester",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/jay-bouwmeester.png",
   },
 
   {
@@ -388,7 +388,7 @@ const players = [
     lastName: "Belak",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/wade-belak.png",
   },
 
   {
@@ -396,7 +396,7 @@ const players = [
     lastName: "Boyle",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/dan boyle.png",
   },
 
   {
@@ -404,7 +404,7 @@ const players = [
     lastName: "Boyes",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/brad boyes.png",
   },
 
   {
@@ -412,7 +412,7 @@ const players = [
     lastName: "Marchessault",
     position: "Right wing",
     age: "50",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/jonathan marchessault.png",
   },
 
   {
@@ -420,7 +420,7 @@ const players = [
     lastName: "Maurice",
     position: "Coach",
     age: "58",
-    photo: "https://picsum.photos/200/300",
+    photo: "imgs/paul-maurice.jpg",
   },
 ];
 
