@@ -23,6 +23,9 @@ body {
   background-attachment: fixed;
   background-size: cover;
   backdrop-filter: blur(0px);
+}
+
+body.players {
   display: grid;
   place-items: center;
   height: 100vh;
@@ -45,7 +48,19 @@ body {
   position: absolute;
   height: 400px;
   width: 400px;
-  background-image: conic-gradient(transparent, transparent, transparent);
+  background-image: conic-gradient(
+    transparent,
+    transparent,
+    transparent,
+    #74ff51
+  );
+  animation: rotate 5s linear infinite;
+}
+
+@keyframes rotate {
+  to {
+    transform: rotateZ(360deg);
+  }
 }
 
 @keyframes bounce {
