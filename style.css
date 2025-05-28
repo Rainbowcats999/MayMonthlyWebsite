@@ -25,6 +25,8 @@ body {
   backdrop-filter: blur(0px);
 }
 
+/* video tourial*/
+
 body.players {
   display: grid;
   place-items: center;
@@ -41,6 +43,7 @@ body.players {
   justify-content: center;
   color: #fff;
   position: relative;
+  overflow: hidden;
 }
 
 .animated-card::before {
@@ -57,11 +60,26 @@ body.players {
   animation: rotate 5s linear infinite;
 }
 
+.animated-card .inner {
+  position: absolute;
+  height: 280px;
+  width: 180px;
+  background: #222;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-family: "Roboto, sans-serif";
+}
+
 @keyframes rotate {
   to {
     transform: rotateZ(360deg);
   }
 }
+
+/*doesn't even work*/
 
 @keyframes bounce {
   0%,
