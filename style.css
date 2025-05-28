@@ -23,6 +23,29 @@ body {
   background-attachment: fixed;
   background-size: cover;
   backdrop-filter: blur(0px);
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.animated-card {
+  height: 300px;
+  width: 200px;
+  background: #1998ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  position: relative;
+}
+
+.animated-card::before {
+  content: "";
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  background-image: conic-gradient(transparent, transparent, transparent);
 }
 
 @keyframes bounce {
