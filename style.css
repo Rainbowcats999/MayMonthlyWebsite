@@ -40,3 +40,15 @@ body {
     transform: translateY(-15px);
   }
 }
+
+/* .zoom-in { 
+
+}
+*/
+
+.card img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}

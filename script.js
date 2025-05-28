@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <div class="card h-100 shadow-sm">
         <img src="${p.photo}" class="card-img-top" alt="${p.firstName} ${p.lastName}">
         <div class="card-body-top text-center">
-            <h5 class="card-title mb-1"> ${p.firstName} ${p.lastname} 
+            <h5 class="card-title mb-1"> ${p.firstName} ${p.lastName} 
             </h5>
             <div class="badge badge-position badge-pos-${p.position}">
 
@@ -31,3 +31,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   render(players);
 });
+
+function transition() {
+  //transition animations would go here
+  alert("transition");
+  window.location.href = "players.html";
+}
