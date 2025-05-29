@@ -28,13 +28,6 @@ body {
 
 /* video tourial*/
 
-body.players {
-  display: grid;
-  place-items: center;
-  height: 100vh;
-  margin: 0;
-}
-
 .animated-card {
   height: 300px;
   width: 200px;
@@ -152,4 +145,8 @@ body.players {
 
 .navbar {
   background: grey;
+}
+
+#rosterGrid {
+  margin-top: 50px;
 }
