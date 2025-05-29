@@ -435,6 +435,30 @@ window.onload = function () {
       destination = "i0";
       text = `Florida panthers`;
       break;
+      case "index.html":
+      destination = "i1";
+      text = `The Florida Panthers are an NHL hockey team established in 1993, named after the Florida panther, a critically endangered subspecies of cougar. They are the southernmost team in the league and play their home games at the Amerant Bank Arena in Sunrise, Florida. The team has a unique history, including their first Stanley Cup win in 2024, and a team culture featuring traditions like fans throwing rubber rats on the ice. 
+Historical Context:
+Panther as Symbol:
+The team's name and logo are a direct reference to the Florida panther, a symbol of Florida's natural beauty and conservation efforts. 
+Hockey History:
+The Panthers were founded as one of two expansion teams in 1993, and have since achieved significant milestones, including reaching the Stanley Cup Finals three times. 
+Unique traditions:
+The team is known for their fan traditions, including the practice of throwing rubber rats on the ice, which originated from a locker room incident involving a rat and forward Scott Mellanby. 
+Conservation Efforts:
+The Panthers support conservation efforts for the Florida panther, recognizing the importance of protecting this endangered species. 
+Recent Accomplishments:
+2024 Stanley Cup Win:
+.
+In 2024, the Panthers achieved their first Stanley Cup victory, defeating the Edmonton Oilers in a seven-game series.
+Playoff Runs:
+.
+They have made three consecutive appearances in the Stanley Cup Finals, showcasing their growth and competitiveness.
+Team Culture:
+.
+The Panthers have developed a strong team culture, fostering a sense of community and pride within the team and among their fans. 
+In summary, the Florida Panthers are an NHL team with a strong connection to the endangered Florida panther, a history marked by both challenges and triumphs, and a unique team culture that sets them apart in the league.`;
+      break;
   }
 
   type(text, document.getElementById(destination));
