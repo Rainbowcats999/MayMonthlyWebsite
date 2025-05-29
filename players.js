@@ -390,7 +390,8 @@ const players = [
     age: "50",
     photo: "imgs/wade-belak.png",
     pic: 'inset badge here',
-    photoALT: 'imgs/wade-belak.png',
+    photoALT: 'imgs/wade-belak.png', //insert new immage
+    fact: 'insert the fact here'
   },
 
   {
