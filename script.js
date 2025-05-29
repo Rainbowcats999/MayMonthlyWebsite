@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <p class="small text-muted mb-0">
                 Age: ${p.age}
             </p>
-            <button class="btn btn-sm btn-primary my-3 show-info-btn" data-player-index="${index}" data-bs-toggle="modal" data-bs-target="#playerModal">Click Here</button>
+            <button class="btn btn-sm btn-primary my-3 show-info-btn" data-player-index="${index}" data-bs-toggle="modal" data-bs-target="#playerModal">More Info</button>
         </div>
         </div>
     </div>
