@@ -5,8 +5,8 @@ const players = [
     position: "Center",
     age: "29",
     photo: "imgs/aleksander-barkov.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
+    pic: 'imgs/puck.avif', //insert new immage
+    photoALT: '', //insert new immage
     fact: 'insert the fact here'
   },
 
