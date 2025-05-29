@@ -389,7 +389,7 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/wade-belak.png",
-    pic: 'inset badge here',
+    pic: 'imgs/wade-belak.png', //insert new immage
     photoALT: 'imgs/wade-belak.png', //insert new immage
     fact: 'insert the fact here'
   },
