@@ -125,9 +125,9 @@ body.players {
   height: 400px;
   width: 400px;
   background-image: conic-gradient(
-    transparent,
-    transparent,
-    transparent,
+    rgb(36, 71, 36),
+    rgb(48, 131, 48),
+    rgb(29, 214, 29),
     #74ff51
   );
   animation: rotate 5s linear infinite;
@@ -148,4 +148,8 @@ body.players {
 
 .element {
   transition: background-color 0.3s ease, transform 0.5s;
+}
+
+.nav {
+  background: g;
 }
