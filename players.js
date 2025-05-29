@@ -389,6 +389,8 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/wade-belak.png",
+    pic: 'inset badge here',
+    photoALT: 'imgs/wade-belak.png',
   },
 
   {
