@@ -123,3 +123,8 @@ body {
 #rosterGrid {
   margin-top: 50px;
 }
+
+img.cheetah {
+  height: 70px;
+  width: 70px;
+}
