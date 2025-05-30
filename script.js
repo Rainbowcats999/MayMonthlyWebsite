@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <div class="card-body-top text-center">
             <h5 class="card-title mb-1"> ${p.firstName}<br>${p.lastName} 
             </h5>
-            <div class="badge badge-position badge-pos-${p.position}">
+            <div class="badge badge-position">
               <h5 class="text-black">${p.position}</h5>
             </div>
             <p class="small text-muted mb-0">

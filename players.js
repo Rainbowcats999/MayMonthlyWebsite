@@ -26,7 +26,7 @@ const players = [
   {
     firstName: "Niko",
     lastName: "Mikkola",
-    position: "Defenseman",
+    position: "Forward",
     age: "29",
     photo: "imgs/niko-mikkola.png",
   },
@@ -162,7 +162,7 @@ const players = [
   {
     firstName: "Byron",
     lastName: "Bitz",
-    position: "3rd or 4th line forward",
+    position: "forward",
     age: "40",
     photo: "imgs/byron-bitz.png",
   },
