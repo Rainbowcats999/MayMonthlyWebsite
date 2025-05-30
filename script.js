@@ -54,7 +54,16 @@ document.addEventListener("DOMContentLoaded", () => {
       document
         .querySelector(`.${p.firstName}${p.lastName.substring(1)}`)
         .addEventListener("click", () => {
-          document.querySelector(".modal-body").textContent = `${p.firstName}`;
+          document.querySelector(
+            ".player-name"
+          ).textContent = `${p.firstName} ${p.lastName}`;
+          document.querySelector(".player-age").textContent = `Age: ${p.age}`;
+          document.querySelector(
+            ".player-status"
+          ).textContent = `Status: ${p.status}`;
+          document.querySelector(
+            ".player-debut"
+          ).textContent = `NHL debut: ${p.debut}`;
         });
     });
   };
