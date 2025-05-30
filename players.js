@@ -5,9 +5,10 @@ const players = [
     position: "Center",
     age: "29",
     photo: "imgs/aleksander-barkov.png",
-    pic: 'imgs/puck.avif', //insert new immage
-    photoALT: '', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/puck.avif", //insert new immage
+    photoALT: "", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -16,9 +17,10 @@ const players = [
     position: "Center",
     age: "31",
     photo: "imgs/evan-rodrigues.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -27,9 +29,10 @@ const players = [
     position: "Center",
     age: "28",
     photo: "imgs/sam-bennett.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -38,9 +41,10 @@ const players = [
     position: "Forward",
     age: "29",
     photo: "imgs/niko-mikkola.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -49,9 +53,10 @@ const players = [
     position: "Left wing",
     age: "26",
     photo: "imgs/jonah-gadjovich.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -60,9 +65,10 @@ const players = [
     position: "Center",
     age: "22",
     photo: "imgs/mackie-samoskeich.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -71,9 +77,10 @@ const players = [
     position: "Center",
     age: "46",
     photo: "imgs/olli-jokinen.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -82,9 +89,10 @@ const players = [
     position: "Left wing",
     age: "32",
     photo: "imgs/nikita-gusev.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -93,9 +101,10 @@ const players = [
     position: "Right wing",
     age: "58",
     photo: "imgs/licensed-image.jpg",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -104,9 +113,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/todd-bertuzzi.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -115,9 +125,10 @@ const players = [
     position: "defenceman",
     age: "28",
     photo: "imgs/gustav-forsling.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -126,9 +137,10 @@ const players = [
     position: "Right wing",
     age: "54",
     photo: "imgs/bure_2018-10-27.jpg",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -137,9 +149,10 @@ const players = [
     position: "Right wing",
     age: "48",
     photo: "imgs/radek-dvorak.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -148,9 +161,10 @@ const players = [
     position: "Defense",
     age: "31",
     photo: "imgs/joshua-brown.jpg",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -159,9 +173,10 @@ const players = [
     position: "Goaltender",
     age: "60",
     photo: "imgs/ed-belfour.jpg",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -170,9 +185,10 @@ const players = [
     position: "Right wing",
     age: "45",
     photo: "imgs/krys-barch.webp",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -181,9 +197,10 @@ const players = [
     position: "Right wing",
     age: "32",
     photo: "imgs/nick-bjugstad.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -192,9 +209,10 @@ const players = [
     position: "Right wing",
     age: "40",
     photo: "imgs/steve-bernier.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -203,9 +221,10 @@ const players = [
     position: "Left wing",
     age: "45",
     photo: "imgs/christian-berglund.jpg",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -214,9 +233,10 @@ const players = [
     position: "Center",
     age: "40",
     photo: "imgs/brian-boyle.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -225,9 +245,10 @@ const players = [
     position: "forward",
     age: "40",
     photo: "imgs/byron-bitz.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -236,9 +257,10 @@ const players = [
     position: "Defenseman",
     age: "29",
     photo: "imgs/aaron-ekblad.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -247,9 +269,10 @@ const players = [
     position: "Right wing",
     age: "29",
     photo: "imgs/sam-reinhart.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -258,9 +281,10 @@ const players = [
     position: "Left wing",
     age: "27",
     photo: "imgs/matthew-tkachuk.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -269,9 +293,10 @@ const players = [
     position: "Defenseman",
     age: "28",
     photo: "imgs/uvis-balinskis.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -280,9 +305,10 @@ const players = [
     position: "Center",
     age: "42",
     photo: "imgs/stephen-weiss.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -291,9 +317,10 @@ const players = [
     position: "Right wing",
     age: "39",
     photo: "imgs/troy-brouwer.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -302,9 +329,10 @@ const players = [
     position: "Left wing",
     age: "31",
     photo: "imgs/jonathan-hurberdeau.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -313,9 +341,10 @@ const players = [
     position: "Right wing",
     age: "38",
     photo: "imgs/bobby-butler.jpg",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
   },
 
   {
@@ -324,9 +353,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/connor-brickley.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -335,9 +365,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/david-booth.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -346,9 +377,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/nick-boynton.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -357,9 +389,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/T.J. Brennan.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -368,9 +401,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/dave-bolland.webp",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -379,9 +413,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/keith ballard.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -390,9 +425,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/david-brine.jpg",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -401,9 +437,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/niclas-bergfors.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -412,9 +449,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/dmitry-kulikov.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -423,9 +461,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/anton lundell.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -434,9 +473,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/eetu-luostarinen.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -445,9 +485,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/sergei-bobrovosky.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -456,9 +497,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/reto-berra.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -467,9 +509,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/ed jovanovski.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -478,9 +521,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/sean-bergenhiem.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -489,9 +533,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/chase-balisy.jpg",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -500,9 +545,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/henrik-borgstrom.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -511,9 +557,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/derick brassard.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -522,9 +569,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/jay-bouwmeester.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -533,9 +581,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/wade-belak.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -544,9 +593,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/dan boyle.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -555,9 +605,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/brad boyes.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -566,9 +617,10 @@ const players = [
     position: "Right wing",
     age: "50",
     photo: "imgs/jonathan marchessault.png",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 
   {
@@ -577,9 +629,10 @@ const players = [
     position: "Coach",
     age: "58",
     photo: "imgs/paul-maurice.jpg",
-    pic: 'imgs/wade-belak.png', //insert new immage
-    photoALT: 'imgs/wade-belak.png', //insert new immage
-    fact: 'insert the fact here'
+    pic: "imgs/wade-belak.png", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: false,
   },
 ];
 
@@ -594,7 +647,7 @@ window.onload = function () {
       destination = "i0";
       text = `Florida panthers`;
       break;
-      case "index.html":
+    case "index.html":
       destination = "i1";
       text = `The Florida Panthers are an NHL hockey team established in 1993, named after the Florida panther, a critically endangered subspecies of cougar. They are the southernmost team in the league and play their home games at the Amerant Bank Arena in Sunrise, Florida. The team has a unique history, including their first Stanley Cup win in 2024, and a team culture featuring traditions like fans throwing rubber rats on the ice. 
 Historical Context:

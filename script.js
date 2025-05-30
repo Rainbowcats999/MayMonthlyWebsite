@@ -30,7 +30,9 @@ document.addEventListener("DOMContentLoaded", () => {
       col.innerHTML = `
       <div class="card h-100 shadow-sm">
       <div class="card-content">
-        <img src="${p.photo}" class="card-img-top" alt="${p.firstName}${p.lastName}">
+        <img src="${p.photo}" class="card-img-top" alt="${p.firstName}${
+        p.lastName
+      }">
         <div class="card-body-top text-center">
             <h5 class="card-title mb-1"> ${p.firstName}<br>${p.lastName} 
             </h5>
@@ -40,33 +42,20 @@ document.addEventListener("DOMContentLoaded", () => {
             <p class="small text-muted mb-0">
                 Age: ${p.age}
             </p>
-
- <img src="${p.pic}" data-bs-toggle="modal" data-bs-target="#Modal-${p.firstName}" style="cursor:pointer;">
-      
-      <div class="modal fade" id="Modal-${p.firstName}" tabindex="-1" aria-labelledby="modalLabel-${p.firstName}" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title" id="modalLabel-${p.firstName}">${p.firstName} </h5>
-              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body text-center">
-              <img src="${p.photoALT}" alt="${p.firstName}.ALT" class="img-fluid mb-3" />
-              <br>
-              <p>
-              <b>${p.fact}</b>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-
+ <img src="imgs/puck.avif" class="${p.firstName}${p.lastName.substring(
+        1
+      )}" data-bs-toggle="modal" data-bs-target="#playerModal" style="cursor:pointer;">
             </div>
       </div>
     </div>
       `;
 
       grid.appendChild(col);
+      document
+        .querySelector(`.${p.firstName}${p.lastName.substring(1)}`)
+        .addEventListener("click", () => {
+          document.querySelector(".modal-body").textContent = `${p.firstName}`;
+        });
     });
   };
 
@@ -78,4 +67,3 @@ function transition() {
   //alert("transition");
   window.location.href = "players.html";
 }
-
