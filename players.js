@@ -549,6 +549,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: false,
+    debut: 2018,
   },
 
   {
@@ -561,6 +562,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: false,
+    debut: 2019,
   },
 
   {
@@ -573,6 +575,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: false,
+    debut: 2002,
   },
 
   {
@@ -585,6 +588,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: false,
+    debut: 2008,
   },
 
   {
@@ -597,42 +601,33 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: false,
+    debut: 1998,
   },
 
   {
     firstName: "Brad",
     lastName: "Boyes",
     position: "Right wing",
-    age: "50",
+    age: "43",
     photo: "imgs/brad boyes.png",
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: false,
+    debut: 2003,
   },
 
   {
     firstName: "Jonathan",
     lastName: "Marchessault",
     position: "Right wing",
-    age: "50",
+    age: "34",
     photo: "imgs/jonathan marchessault.png",
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
-    status: false,
-  },
-
-  {
-    firstName: "Paul",
-    lastName: "Maurice",
-    position: "Coach",
-    age: "58",
-    photo: "imgs/paul-maurice.jpg",
-    pic: "imgs/wade-belak.png", //insert new immage
-    photoALT: "imgs/wade-belak.png", //insert new immage
-    fact: "insert the fact here",
-    status: false,
+    status: true,
+    debut: 2016,
   },
 ];
 
