@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "col-6 col-md-3 col-xl-2 d-flex justify-content-center align-items-center";
 
       col.innerHTML = `
-      <div class="card h-100 shadow-sm">
+      <div class="card h-100 shadow-sm status-${p.status}">
       <div class="card-content">
         <img src="${p.photo}" class="card-img-top" alt="${p.firstName}${
         p.lastName
