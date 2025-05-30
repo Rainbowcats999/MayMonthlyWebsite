@@ -637,6 +637,19 @@ const players = [
     status: true,
     debut: 2016,
   },
+
+  {
+    firstName: "Paul",
+    lastName: "Maurice",
+    position: "Coach",
+    age: "58",
+    photo: "imgs/paul-maurice.jpg",
+    pic: "imgs/paul-maurice.jpg", //insert new immage
+    photoALT: "imgs/wade-belak.png", //insert new immage
+    fact: "insert the fact here",
+    status: true,
+    debut: 2022,
+  },
 ];
 
 window.onload = function () {
