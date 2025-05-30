@@ -471,24 +471,26 @@ const players = [
     firstName: "Eetu",
     lastName: "Luostarinen",
     position: "Right wing",
-    age: "50",
+    age: "26",
     photo: "imgs/eetu-luostarinen.png",
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
-    status: false,
+    status: true,
+    debut: 2020,
   },
 
   {
     firstName: "Sergei",
     lastName: "Bobrovosky",
     position: "Right wing",
-    age: "50",
+    age: "36",
     photo: "imgs/sergei-bobrovosky.png",
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
-    status: false,
+    status: true,
+    debut: 2019,
   },
 
   {
@@ -501,42 +503,46 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: false,
+    debut: 2016,
   },
 
   {
     firstName: "Ed",
     lastName: "Jovanovski",
     position: "Right wing",
-    age: "50",
+    age: "48",
     photo: "imgs/ed jovanovski.png",
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: false,
+    debut: 2011,
   },
 
   {
     firstName: "Sean",
     lastName: "Bergenheim",
     position: "Right wing",
-    age: "50",
+    age: "41",
     photo: "imgs/sean-bergenhiem.png",
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
-    status: false,
+    status: true,
+    debut: 2011,
   },
 
   {
     firstName: "Chase",
     lastName: "Balisy",
     position: "Right wing",
-    age: "50",
+    age: "33",
     photo: "imgs/chase-balisy.jpg",
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
-    status: false,
+    status: true,
+    debut: 2017,
   },
 
   {
