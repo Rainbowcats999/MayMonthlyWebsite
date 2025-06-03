@@ -22,6 +22,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: true,
+    debut: 2023,
   },
 
   {
@@ -34,6 +35,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: true,
+    debut: 2021,
   },
 
   {
@@ -46,6 +48,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: true,
+    debut: 2023,
   },
 
   {
@@ -58,6 +61,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: true,
+    debut: 2023,
   },
 
   {
@@ -70,6 +74,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: true,
+    debut: 2021,
   },
 
   {
