@@ -139,7 +139,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: true,
-    
+    debut: 2021,
   },
 
   {
@@ -164,7 +164,8 @@ const players = [
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
-    status: true,
+    status: false,
+    debut: 2007,
   },
 
   {
@@ -177,6 +178,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: true,
+    debut: 2019,
   },
 
   {
