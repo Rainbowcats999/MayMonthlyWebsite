@@ -86,7 +86,8 @@ const players = [
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
-    status: true,
+    status: false,
+    debut: 2000,
   },
 
   {
