@@ -679,6 +679,10 @@ window.onload = function () {
       destination = "i0";
       text = `Florida panthers`;
       break;
+      case "players.html":
+      destination = "i0";
+      text = `*NHL debut is the date the player joined the team*`;
+      break;
     case "index.html":
       destination = "i1";
       text = `The Florida Panthers are an NHL hockey team established in 1993, named after the Florida panther, a critically endangered subspecies of cougar. They are the southernmost team in the league and play their home games at the Amerant Bank Arena in Sunrise, Florida. The team has a unique history, including their first Stanley Cup win in 2024, and a team culture featuring traditions like fans throwing rubber rats on the ice. 
