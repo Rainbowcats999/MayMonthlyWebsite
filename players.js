@@ -191,6 +191,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: false,
+    debut: 2006,
   },
 
   {
@@ -202,7 +203,8 @@ const players = [
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
-    status: true,
+    status: false,
+    debut: 2011,
   },
 
   {
@@ -215,6 +217,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: true,
+    debut: 2013,
   },
 
   {
@@ -227,6 +230,7 @@ const players = [
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
     status: true,
+    debut: 2010,
   },
 
   {
@@ -238,7 +242,7 @@ const players = [
     pic: "imgs/wade-belak.png", //insert new immage
     photoALT: "imgs/wade-belak.png", //insert new immage
     fact: "insert the fact here",
-    status: true,
+    status: 2004,
   },
 
   {
